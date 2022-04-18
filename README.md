@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagasesank
 - 👀 Working As a Security Researcher.
-- 🌱 I’m currently learning Python & Duffernt Security vulnerability.
+- 🌱 I’m currently learning Python & Differnt Security vulnerability.
 - 💞️ I’m looking to collaborate with BUg Hunter and Pentesting People.
 - 📫 How to reach me on nagasesank@gmail.com & this is my linkedin https://www.linkedin.com/in/nagasesank/
 
