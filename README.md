@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nagasesank
-- 👀 I’m interested in Web pentesting and bugbounty.
-- 🌱 I’m currently learning Python scripting and python pentesting in linux.
-- 💞️ I’m looking to collaborate on bugbounty and earn money.
+- 👀 Working As a Security Researcher.
+- 🌱 I’m currently learning Python & Duffernt Security vulnerability.
+- 💞️ I’m looking to collaborate with BUg Hunter and Pentesting People.
 - 📫 How to reach me on nagasesank@gmail.com & this is my linkedin https://www.linkedin.com/in/nagasesank/
 
 <!---
