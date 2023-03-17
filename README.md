@@ -42,4 +42,5 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 
 Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nagasesank/).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janedoe/)](https://www.linkedin.com/in/janedoe/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagasesank/)](https://www.linkedin.com/in/nagasesank/)
+
