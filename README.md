@@ -17,7 +17,9 @@ Here are some of the projects I'm most proud of:
 
 - [Oval-Product-Tool](https://github.com/nagasesank/Oval-Product.git): The Automation tool using pyhton retrive the data from excel.
 - [OVAL-Automation](https://github.com/nagasesank/-OVAL-.git): A Python tool which automate my Cisco and CISA Assement Rules.
-- [GNS3Automation]():The Tool Automates the GNS3 Emuluation Devices.
+- [GNS3Automation](https://github.com/nagasesank/GNS3-Automate):The Tool Automates the GNS3 Emuluation Devices.
+- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation)): Automation Of AWS Using Terraform and Ansible using Python
+- [WEB Scrappers](https://github.com/nagasesank/WebScrapers): My internal projects to showcase my python skills which scrapes versions from the Advisories of CVES.
 
 ## 💻 Skills
 
