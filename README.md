@@ -1,22 +1,16 @@
-# Hello, world! 👋
+Hello, world! 👋
+# About Me
 
-Security Researcher🎭, who has 4+ years of Experience as a Network & Security Researcher 💼 with Problem-Solving Skills and Verbal Communication Skills, and Responsibility for Identifying and Investigating Potential Vulnerabilities in My Company’s Products. It Includes both Internal and External Research, as well as coordination with other Departments to Ensure the Security of the Company’s Products.😀🙂
+I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting both internal and external research while collaborating with various departments to ensure the highest standards of product security.
 
-Being a Researcher, I love to learn More than I can, coz I Don’t want to Sit in One Chair, Different Security Vulnerabilities Can Lead to Different Scopes to Learn. By Exploring the Security Aspects Most of the Time Putting an Effort into Practice.💯👍👊
+As a researcher, I am driven by an insatiable hunger for knowledge. I firmly believe that each security vulnerability presents a unique opportunity for learning and growth. I actively explore new security aspects and ensure that my efforts translate into practical, hands-on experience. For me, learning is a continuous process, and I refuse to be confined to a single path or perspective.
 
-Apart from My Workspace, I like to be a Nature Guy and I’m Interested in the Bookshelf, Gardening and Cooking for Mood Out.🤟🤟🙊
-Being Patience and Fast Learning are My Positives.💥💥🔥
-
-If I’m in a Task, I Will Give My Best... if you can’t Trust Me, I Can’t Work Beyond My Self-Respect.✌️🤟
-
-Way to My Heart is Coffee☕, a Book📚 and a Nice Open Conversation🧏.😀😋🤭
+I pride myself on my patience and fast learning ability, which I consider essential attributes for both personal and professional success.
 
 ## 🚀 My Projects
 
 Here are some of the projects I'm most proud of:
 
-- [Oval-Product-Tool](https://github.com/nagasesank/Oval-Product.git): The Automation tool using pyhton retrive the data from excel.
-- [OVAL-Automation](https://github.com/nagasesank/-OVAL-.git): A Python tool which automate my Cisco and CISA Assement Rules.
 - [GNS3Automation](https://github.com/nagasesank/GNS3-Automate):The Tool Automates the GNS3 Emuluation Devices.
 - [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation): Automation Of AWS Using Terraform and Ansible using Python
 - [WEB Scrappers](https://github.com/nagasesank/WebScrapers): My internal projects to showcase my Python skills which scrapes versions from the Advisories of CVES.
@@ -25,12 +19,10 @@ Here are some of the projects I'm most proud of:
 
 Here are some of the skills and technologies I'm proficient in:
 
-- WAPT & VAPT
+- Cisco,Juniper,Paloalto,Fortigate Firewalls
 - Python
-- AWS Cloud
-- HTML/CSS
+- AWS Cloud,Terraform,Ansible
 - Git
-- Bug Bounty
 
 ## 🌱 Currently Learning
 
@@ -38,7 +30,7 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 
 - Malware Analysis and Threat detection, TTPs
 - AWS Cloud Security
-- RED Teaming, Bug Hunting
+- Ansible tower,Terraform
 - MITRE ATT&CK
 
 ## 📫 Get in Touch
@@ -47,3 +39,5 @@ Want to collaborate on a project or just say hi? You can reach me at nagasesank@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagasesank/)](https://www.linkedin.com/in/nagasesank/)
 
+
+#### Continuous learning, integrity, and the drive to make a meaningful impact define my path in security research.
