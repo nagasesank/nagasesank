@@ -34,7 +34,7 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 - Ansible tower,Terraform
 - MITRE ATT&CK
   
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/675e8a50ecc889bb0db96f97?variant=dark" alt="roadmap.sh"/></a>
 
 ## 📫 Get in Touch
 
