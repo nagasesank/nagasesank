@@ -33,6 +33,8 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 - AWS Cloud Security
 - Ansible tower,Terraform
 - MITRE ATT&CK
+  
+[![roadmap.sh](https://roadmap.sh/card/tall/675e8a50ecc889bb0db96f97?variant=dark)](https://roadmap.sh)
 
 ## 📫 Get in Touch
 
