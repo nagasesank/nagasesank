@@ -15,7 +15,8 @@ Here are some of the projects I'm most proud of:
 - [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation): Automation Of AWS Using Terraform and Ansible using Python
 - [WEB Scrappers](https://github.com/nagasesank/WebScrapers): My internal projects to showcase my Python skills which scrapes versions from the Advisories of CVES.
 - [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation): A Basic Level Automation for GNS3 project,where it was a generic script to run by anyone..
-- 
+- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool):It takes the log directory as an argument, compresses the files into a tar.gz archive
+  
 ## 💻 Skills
 
 Here are some of the skills and technologies I'm proficient in:
