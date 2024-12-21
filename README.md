@@ -1,7 +1,7 @@
 Hello, world! 👋
 # About Me
 
-I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting both internal and external research while collaborating with various departments to ensure the highest standards of product security.
+I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting internal and external research while collaborating with various departments to ensure the highest product security standards.
 
 As a researcher, I am driven by an insatiable hunger for knowledge. I firmly believe that each security vulnerability presents a unique opportunity for learning and growth. I actively explore new security aspects and ensure that my efforts translate into practical, hands-on experience. For me, learning is a continuous process, and I refuse to be confined to a single path or perspective.
 
