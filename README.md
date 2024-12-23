@@ -1,5 +1,4 @@
-Hello, world! 👋
-
+Hello, world! 👋                                                           
 # About Me
 
 I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting internal and external research while collaborating with various departments to ensure the highest product security standards.
@@ -7,6 +6,8 @@ I am a dedicated Security Researcher with over 7+ years of experience in Network
 As a researcher, I am driven by an insatiable hunger for knowledge. I firmly believe that each security vulnerability presents a unique opportunity for learning and growth. I actively explore new security aspects and ensure that my efforts translate into practical, hands-on experience. For me, learning is a continuous process, and I refuse to be confined to a single path or perspective.
 
 I pride myself on my patience and fast learning ability, which I consider essential attributes for both personal and professional success.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/suryaM07.png" alt="Your Image Badge" />
 
 ## 🚀 My Projects
 
