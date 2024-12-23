@@ -7,8 +7,6 @@ As a researcher, I am driven by an insatiable hunger for knowledge. I firmly bel
 
 I pride myself on my patience and fast learning ability, which I consider essential attributes for both personal and professional success.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/suryaM07.png" alt="Your Image Badge" />
-
 ## 🚀 My Projects
 
 Here are some of the projects I'm most proud of:
