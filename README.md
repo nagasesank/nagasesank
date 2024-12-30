@@ -1,4 +1,5 @@
-Hello, world! 👋                                                           
+Hello, world! 👋        
+                                                
 # About Me
 
 I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting internal and external research while collaborating with various departments to ensure the highest product security standards.
@@ -35,7 +36,9 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 - Ansible tower,Terraform
 - MITRE ATT&CK
   
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=light" alt="roadmap.sh"/></a>
+## My Badges
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=light" alt="roadmap.sh"/></a>  ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/b83e10ec-f5b5-4fd8-bbfb-ba6e7e985149)
  
 ## 📫 Get in Touch
 
