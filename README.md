@@ -37,8 +37,7 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 - MITRE ATT&CK
 
 ## :trophy: My Badges
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=light" alt="roadmap.sh"/></a>
+![badge](https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=dark)
 ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/b83e10ec-f5b5-4fd8-bbfb-ba6e7e985149)  ![suryaM07](https://github.com/user-attachments/assets/5b792392-8bcf-4f81-a40c-1e4cbafa5275)
 
 ## 📫 Get in Touch
