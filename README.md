@@ -38,8 +38,8 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
   
 ## My Badges
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=light" alt="roadmap.sh"/></a>  ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/b83e10ec-f5b5-4fd8-bbfb-ba6e7e985149) <img src="https://tryhackme-badges.s3.amazonaws.com/suryaM07.png" alt="Your Image Badge" />
- 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=light" alt="roadmap.sh"/></a>  ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/b83e10ec-f5b5-4fd8-bbfb-ba6e7e985149)  ![suryaM07](https://github.com/user-attachments/assets/5b792392-8bcf-4f81-a40c-1e4cbafa5275)
+
 ## 📫 Get in Touch
 
 Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nagasesank/).
