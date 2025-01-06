@@ -2,11 +2,13 @@ Hello, world! 👋
                                                 
 # About Me
 
-I am a dedicated Security Researcher with over 7+ years of experience in Network & Security Domain. My core strengths lie in problem-solving, verbal communication, and a sharp eye for identifying and investigating potential vulnerabilities in my company’s products. My role involves conducting internal and external research while collaborating with various departments to ensure the highest product security standards.
+With over 7+ years of experience in cybersecurity and network security, I have a solid background in diagnosing issues and designing solutions.
 
-As a researcher, I am driven by an insatiable hunger for knowledge. I firmly believe that each security vulnerability presents a unique opportunity for learning and growth. I actively explore new security aspects and ensure that my efforts translate into practical, hands-on experience. For me, learning is a continuous process, and I refuse to be confined to a single path or perspective.
+In my previous roles, I developed security rules and configured devices like Cisco and Juniper. I also automated processes using Python and Ansible, which improved efficiency in managing security. My hands-on experience with firewalls, including Palo Alto, aligns well with the requirements of this role.
 
-I pride myself on my patience and fast learning ability, which I consider essential attributes for both personal and professional success.
+I have a strong understanding of network security principles and can lead projects effectively. My ability to communicate complex ideas clearly will help in conducting demonstrations and workshops.
+
+I am excited about the opportunity to help clients navigate their digital transformation journeys. I look forward to discussing how I can contribute to your team.
 
 ## 🚀 My Projects
 
