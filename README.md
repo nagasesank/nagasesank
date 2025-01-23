@@ -24,11 +24,10 @@ Here are some of the projects I'm most proud of:
 
 Here are some of the skills and technologies I'm proficient in:
 
-- Cisco NetwrokmConfiguartions CCNA, CCNP 
+- Cisco Network Configurations (CCNA, CCNP) 
 - Cisco ASA, Juniper, PaloAlto, Fortigate Firewalls & BIG-IP  
-- Python
-- AWS Cloud,Terraform,Ansible
-- Git, cloud security (AWS)
+- AWS Cloud, Automating Security Tasks Using Python, Ansible & Terraform
+- Git, Cloud Security (AWS)
 - Linux & Windows Privilege Escalation and Practical Malware Analysis ( Beginner)
 
 ## 🌱 Currently Learning
