@@ -24,10 +24,12 @@ Here are some of the projects I'm most proud of:
 
 Here are some of the skills and technologies I'm proficient in:
 
-- Cisco,Juniper,Paloalto,Fortigate Firewalls
+- Cisco NetwrokmConfiguartions CCNA, CCNP 
+- Cisco ASA, Juniper, PaloAlto, Fortigate Firewalls & BIG-IP  
 - Python
 - AWS Cloud,Terraform,Ansible
-- Git
+- Git, cloud security (AWS)
+- Linux & Windows Privilege Escalation and Practical Malware Analysis ( Beginner)
 
 ## 🌱 Currently Learning
 
@@ -37,10 +39,6 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 - AWS Cloud Security
 - Ansible tower,Terraform
 - MITRE ATT&CK
-
-## :trophy: My Badges
-[![roadmap.sh](https://roadmap.sh/card/wide/675e8a50ecc889bb0db96f97?variant=dark)](https://roadmap.sh)
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/b83e10ec-f5b5-4fd8-bbfb-ba6e7e985149)  ![suryaM07](https://github.com/user-attachments/assets/5b792392-8bcf-4f81-a40c-1e4cbafa5275)
 
 ## 📫 Get in Touch
 
