@@ -8,9 +8,7 @@ My career spans threat detection, vulnerability management, penetration testing,
 
 I’m passionate about mentoring teams, automating security assessments, and aligning solutions with compliance frameworks (ISO 27001, CISA). My goal is to empower organisations to navigate digital transformation securely while reducing risks and enhancing resilience against evolving cyber threats.
 
-![AWS](https://img.shields.io/badge/AWS-Security-orange?logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Security-orange?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
   
 ## 🛠️ Skills
 
@@ -26,8 +24,7 @@ Here are some of the skills and technologies I'm proficient in:
 
 ## ✅ My Badges
 
-<img width="150" height="1500" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/e75dc651-bbef-436e-b273-38fc6f5cc6a3" />
-<img width="200" height="200" alt="CHDL1" src="https://github.com/user-attachments/assets/72bdf122-7949-48ac-8408-16b1be653d28" />
+<img width="150" height="1500" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/e75dc651-bbef-436e-b273-38fc6f5cc6a3" /> <img width="200" height="200" alt="CHDL1" src="https://github.com/user-attachments/assets/72bdf122-7949-48ac-8408-16b1be653d28" /> <img width="150" height="150" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/e4db97ab-803b-46a0-a561-b3a3e538ec83" /> <img width="200" height="272" alt="CEH-logo" src="https://github.com/user-attachments/assets/cbc0dd75-14d6-465a-99fb-a1c2c0d6b032" />
 
 ## 🌱 Currently Learning
 
@@ -42,8 +39,7 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 
 Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/suryasesank/).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryasesank/)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryasesank/) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 #### Continuous learning, integrity, and the drive to make a meaningful impact define my path in security research.
 
