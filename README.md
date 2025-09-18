@@ -1,33 +1,23 @@
 Hello, world! 👋        
                                                 
-# About Me
-With over 7+ years of experience in cybersecurity and network security, I have a solid background in diagnosing issues and designing solutions.
+🙋 About Me
 
-In my previous roles, I developed security rules and configured devices like Cisco and Juniper. I also automated processes using Python and Ansible, which improved efficiency in managing security. My hands-on experience with firewalls, including Palo Alto, aligns well with the requirements of this role.
+With 8+ years of experience in cybersecurity, cloud security, and network defence, I specialise in protecting hybrid infrastructures and leading security teams. Currently working as a Cybersecurity Engineer – Team Lead II, I design and implement cloud security policies, manage Palo Alto firewalls, and automate incident response workflows using Python and Ansible.
 
-I have a strong understanding of network security principles and can lead projects effectively. My ability to communicate complex ideas clearly will help in conducting demonstrations and workshops.
+My career spans threat detection, vulnerability management, penetration testing, and DevSecOps practices, with a proven track record of improving security posture for enterprise clients. I hold multiple certifications, including AWS Solutions Architect – Associate, AWS Advanced Networking – Speciality, CEH, and PCNSE, which strengthen my ability to secure cloud-native and on-prem environments.
 
-I am excited about the opportunity to help clients navigate their digital transformation journeys. I look forward to discussing how I can contribute to your team.
+I’m passionate about mentoring teams, automating security assessments, and aligning solutions with compliance frameworks (ISO 27001, CISA). My goal is to empower organisations to navigate digital transformation securely while reducing risks and enhancing resilience against evolving cyber threats.
 
 ![AWS](https://img.shields.io/badge/AWS-Security-orange?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
-## 🚀 My Projects
-
-Here are some of the projects I'm most proud of:
-
-- [GNS3Automation](https://github.com/nagasesank/GNS3-Automate):The Tool Automates the GNS3 Emuluation Devices.
-- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation): Automation Of AWS Using Terraform and Ansible using Python
-- [WEB Scrappers](https://github.com/nagasesank/WebScrapers): My internal projects to showcase my Python skills which scrapes versions from the Advisories of CVES.
-- [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation): A Basic Level Automation for GNS3 project,where it was a generic script to run by anyone..
-- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool):It takes the log directory as an argument, compresses the files into a tar.gz archive
   
 ## 🛠️ Skills
 
 Here are some of the skills and technologies I'm proficient in:
 
 - Cisco Network Configurations (CCNA, CCNP) 
-- Cisco ASA, Juniper, PaloAlto, Fortigate Firewalls & BIG-IP  
+- Cisco ASA, Juniper, PaloAlto, FortiGate Firewalls & BIG-IP  
 - AWS Cloud, Automating Security Tasks Using Python, Ansible & Terraform
 - Git, Cloud Security (AWS)
 - Linux & Windows Privilege Escalation and Practical Malware Analysis ( Beginner)
@@ -43,9 +33,9 @@ Here are some of the skills and technologies I'm proficient in:
 
 I'm always learning and trying to improve my skills. Here are some things I'm currently working on:
 
-- Malware Analysis and Threat detection, TTPs
+- Malware Analysis and Threat Detection, TTPs
 - AWS Cloud Security
-- Ansible tower,Terraform
+- Ansible Tower, Terraform
 - MITRE ATT&CK
 
 ## 📫 Get in Touch
