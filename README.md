@@ -29,6 +29,10 @@ Here are some of the skills and technologies I'm proficient in:
 - AWS Cloud, Automating Security Tasks Using Python, Ansible & Terraform
 - Git, Cloud Security (AWS)
 - Linux & Windows Privilege Escalation and Practical Malware Analysis ( Beginner)
+## My Badges
+
+<img width="150" height="1500" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/e75dc651-bbef-436e-b273-38fc6f5cc6a3" />
+<img width="200" height="200" alt="CHDL1" src="https://github.com/user-attachments/assets/72bdf122-7949-48ac-8408-16b1be653d28" />
 
 ## 🌱 Currently Learning
 
@@ -41,9 +45,9 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 
 ## 📫 Get in Touch
 
-Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nagasesank/).
+Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/suryasesank/).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagasesank/)](https://www.linkedin.com/in/nagasesank/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryasesank/)
 
 
 #### Continuous learning, integrity, and the drive to make a meaningful impact define my path in security research.
