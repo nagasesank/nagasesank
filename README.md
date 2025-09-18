@@ -1,7 +1,7 @@
 Hello, world! 👋        
-                                                
-🙋 About Me
-
+                                         
+🙋 About Me 
+##### Cybersecurity Engineer & Team Lead II | AWS Cloud Security | AI Master Mind | Palo Alto | Healthcare IT
 With 8+ years of experience in cybersecurity, cloud security, and network defence, I specialise in protecting hybrid infrastructures and leading security teams. Currently working as a Cybersecurity Engineer – Team Lead II, I design and implement cloud security policies, manage Palo Alto firewalls, and automate incident response workflows using Python and Ansible.
 
 My career spans threat detection, vulnerability management, penetration testing, and DevSecOps practices, with a proven track record of improving security posture for enterprise clients. I hold multiple certifications, including AWS Solutions Architect – Associate, AWS Advanced Networking – Speciality, CEH, and PCNSE, which strengthen my ability to secure cloud-native and on-prem environments.
