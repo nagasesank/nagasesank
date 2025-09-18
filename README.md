@@ -55,7 +55,7 @@ I'm always learning and trying to improve my skills. Here are some things I'm cu
 Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/suryasesank/).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryasesank/)
-[![GitHub Followers](https://img.shields.io/github/followers/nagasesank?label=Follow&style=social)](https://github.com/nagasesank)
+[![GitHub Followers](https://img.shields.io/github/followers/nagasesank?label=Follow&style=social)]()
 
 #### Continuous learning, integrity, and the drive to make a meaningful impact define my path in security research.
 
