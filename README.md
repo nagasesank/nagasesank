@@ -40,6 +40,12 @@ I work on securing hybrid environments, improving security posture, and automati
 - [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool)
   A Python-based CLI utility for archiving logs and recording archive activity.
 
+## Articles and Writing
+
+- I write about AWS, cloud security, infrastructure automation, and practical cybersecurity topics to share hands-on learning and implementation experience.
+- LinkedIn Articles: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
+- Technical write-ups and project explainers are part of how I document solutions, communicate architecture decisions, and turn project work into reusable knowledge.
+
 ## Current Focus
 
 - Cloud security architecture
