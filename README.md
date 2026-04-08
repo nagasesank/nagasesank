@@ -1,45 +1,56 @@
-Hello, world! 👋        
-                                         
-🙋 About Me 
-##### Cybersecurity Engineer & Team Lead II | AWS Cloud Security | AI Master Mind | Palo Alto | Healthcare IT
-With 8+ years of experience in cybersecurity, cloud security, and network defence, I specialise in protecting hybrid infrastructures and leading security teams. Currently working as a Cybersecurity Engineer – Team Lead II, I design and implement cloud security policies, manage Palo Alto firewalls, and automate incident response workflows using Python and Ansible.
+# Surya Naga Sesank M
 
-My career spans threat detection, vulnerability management, penetration testing, and DevSecOps practices, with a proven track record of improving security posture for enterprise clients. I hold multiple certifications, including AWS Solutions Architect – Associate, AWS Advanced Networking – Speciality, CEH, and PCNSE, which strengthen my ability to secure cloud-native and on-prem environments.
+Cybersecurity Engineer and Team Lead with 8+ years of experience across cloud security, network security, firewall administration, and security automation.
 
-I’m passionate about mentoring teams, automating security assessments, and aligning solutions with compliance frameworks (ISO 27001, CISA). My goal is to empower organisations to navigate digital transformation securely while reducing risks and enhancing resilience against evolving cyber threats.
+I work on securing hybrid environments, improving security posture, and automating operational workflows with Python, Ansible, and Terraform. My background spans AWS cloud security, Palo Alto firewalls, vulnerability management, threat detection, and enterprise infrastructure support in healthcare IT environments.
 
-![AWS](https://img.shields.io/badge/AWS-Security-orange?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
-  
-## 🛠️ Skills
+## What I Bring
 
-Here are some of the skills and technologies I'm proficient in:
+- Cloud security and security operations experience across AWS and hybrid infrastructure
+- Hands-on firewall and network security expertise with Palo Alto, Cisco ASA, Juniper, FortiGate, and F5 BIG-IP
+- Automation-focused approach using Python, Ansible, and Terraform
+- Team leadership experience with a focus on improving resilience, operational efficiency, and security maturity
 
-- Cisco Network Configurations (CCNA, CCNP) 
-- Cisco ASA, Juniper, PaloAlto, FortiGate Firewalls & BIG-IP  
-- AWS Cloud, Automating Security Tasks Using Python, Ansible & Terraform
-- Git, Cloud Security (AWS)
-- Linux & Windows Privilege Escalation and Practical Malware Analysis ( Beginner)
-  
-![AWS](https://img.shields.io/badge/AWS-Security-orange?logo=amazonaws&logoColor=white)  ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewalls-0072C6?logo=paloaltonetworks&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform&logoColor=white)  ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white) 
+## Core Skills
 
-## ✅ My Badges
-
-<img width="150" height="1500" alt="aws-certified-solutions-architect-associate (1)" src="https://github.com/user-attachments/assets/e75dc651-bbef-436e-b273-38fc6f5cc6a3" /> <img width="200" height="200" alt="CHDL1" src="https://github.com/user-attachments/assets/72bdf122-7949-48ac-8408-16b1be653d28" /> <img width="150" height="150" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/e4db97ab-803b-46a0-a561-b3a3e538ec83" /> <img width="200" height="272" alt="CEH-logo" src="https://github.com/user-attachments/assets/cbc0dd75-14d6-465a-99fb-a1c2c0d6b032" />
-
-## 🌱 Currently Learning
-
-I'm always learning and trying to improve my skills. Here are some things I'm currently working on:
-
-- Malware Analysis and Threat Detection, TTPs
 - AWS Cloud Security
-- Ansible Tower, Terraform
-- MITRE ATT&CK
+- Network Security Engineering
+- Palo Alto and Enterprise Firewalls
+- Python for Security Automation
+- Ansible and Terraform
+- Vulnerability Management
+- Threat Detection and Incident Response
+- Linux and Windows Security
 
-## 📫 Get in Touch
+## Certifications
 
-Want to collaborate on a project or just say hi? You can reach me at nagasesank@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/suryasesank/).
+- AWS Certified Solutions Architect - Associate
+- AWS Advanced Networking - Specialty
+- Certified Ethical Hacker (CEH)
+- Palo Alto Networks Certified Network Security Engineer (PCNSE)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryasesank/) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+## Featured Projects
 
-#### Continuous learning, integrity, and the drive to make a meaningful impact define my path in security research.
+- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation)
+  Automates AWS infrastructure provisioning and configuration workflows using Terraform, Ansible, and Python.
+- [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation)
+  Uses Ansible playbooks and roles to manage multi-vendor network devices including Cisco, Juniper, and F5.
+- [GNS3-Automate](https://github.com/nagasesank/GNS3-Automate)
+  Automates GNS3 topology workflows and network device configuration tasks for lab and testing environments.
+- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool)
+  A Python-based CLI utility for archiving logs and recording archive activity.
 
+## Current Focus
+
+- Cloud security architecture
+- Security automation and infrastructure as code
+- Threat detection and incident response
+- Practical malware analysis and ATT&CK-aligned learning
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
+- GitHub: [github.com/nagasesank](https://github.com/nagasesank)
+- Email: nagasesank@gmail.com
+
+I am passionate about building secure, scalable systems and using automation to reduce risk, improve visibility, and strengthen operational response.
