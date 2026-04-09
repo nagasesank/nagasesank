@@ -44,7 +44,7 @@ I work on securing hybrid environments, improving security posture, and automati
 
 - I write about AWS, cloud security, infrastructure automation, and practical cybersecurity topics to share hands-on learning and implementation experience.
 - Hashnode: [fridaysecurity.hashnode.dev](https://fridaysecurity.hashnode.dev/)
-- LinkedIn: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
+- LinkedIn Articles and Posts: [https://www.linkedin.com/in/suryasesank/](https://www.linkedin.com/in/suryasesank/)
 - I also publish on Medium and DEV Community, with topics adapted to the platform and audience.
 - My writing focuses on turning project work, implementation notes, and security concepts into practical, reusable knowledge for engineers and learners.
 
@@ -57,7 +57,7 @@ I work on securing hybrid environments, improving security posture, and automati
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
+- LinkedIn: [https://www.linkedin.com/in/suryasesank/](https://www.linkedin.com/in/suryasesank/)
 - GitHub: [github.com/nagasesank](https://github.com/nagasesank)
 - Email: nagasesank@gmail.com
 
