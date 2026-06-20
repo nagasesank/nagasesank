@@ -1,64 +1,30 @@
 # Surya Naga Sesank M
 
-Cybersecurity Engineer and Team Lead with 8+ years of experience across cloud security, network security, firewall administration, and security automation.
+<p align="left">
+  <img src="https://img.shields.io/badge/Lead-Cloud%20Security%20Engineer-0f172a?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Lead Cloud Security Engineer" />
+  <img src="https://img.shields.io/badge/AWS%20Security-IAM%20%7C%20SCP%20%7C%20Terraform-1d4ed8?style=for-the-badge" alt="AWS Security" />
+  <img src="https://img.shields.io/badge/Compliance-HIPAA%20%7C%20HITRUST-0f766e?style=for-the-badge" alt="Compliance" />
+</p>
 
-I work on securing hybrid environments, improving security posture, and automating operational workflows with Python, Ansible, and Terraform. My background spans AWS cloud security, Palo Alto firewalls, vulnerability management, threat detection, and enterprise infrastructure support in healthcare IT environments.
+---
 
-## What I Bring
+Lead Cloud Security Engineer with **8+ years of experience** securing AWS and hybrid healthcare environments. My focus is **AWS Security, IAM governance, AWS Organizations, SCP governance, Terraform security, security automation, Zero Trust architecture, and HIPAA/HITRUST-aligned controls**.
 
-- Cloud security and security operations experience across AWS and hybrid infrastructure
-- Hands-on firewall and network security expertise with Palo Alto, Cisco ASA, Juniper, FortiGate, and F5 BIG-IP
-- Automation-focused approach using Python, Ansible, and Terraform
-- Team leadership experience with a focus on improving resilience, operational efficiency, and security maturity
+### Key Achievements
+- Built and supported secure cloud and hybrid environments with policy-driven access controls, network segmentation, and operational visibility.
+- Applied infrastructure-as-code and automation using **Terraform, Ansible, and Python** to improve consistency, governance, and response workflows.
+- Worked across healthcare IT environments where **security architecture, auditability, and compliance alignment** are critical.
 
-## Core Skills
+---
 
-- AWS Cloud Security
-- Network Security Engineering
-- Palo Alto and Enterprise Firewalls
-- Python for Security Automation
-- Ansible and Terraform
-- Vulnerability Management
-- Threat Detection and Incident Response
-- Linux and Windows Security
+### Featured Projects
+- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation) - AWS provisioning and automation with Terraform, Ansible, and Python.
+- [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation) - Multi-vendor automation supporting secure network operations.
+- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool) - Python tooling for operational logging and repeatable admin workflows.
 
-## Certifications
+---
 
-- AWS Certified Solutions Architect - Associate
-- AWS Advanced Networking - Specialty
-- Certified Ethical Hacker (CEH)
-- Palo Alto Networks Certified Network Security Engineer (PCNSE)
+### Links
+- Portfolio: [nagasesank.github.io](https://nagasesank.github.io/)
+- LinkedIn: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
 
-## Featured Projects
-
-- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation)
-  Automates AWS infrastructure provisioning and configuration workflows using Terraform, Ansible, and Python.
-- [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation)
-  Uses Ansible playbooks and roles to manage multi-vendor network devices including Cisco, Juniper, and F5.
-- [GNS3-Automate](https://github.com/nagasesank/GNS3-Automate)
-  Automates GNS3 topology workflows and network device configuration tasks for lab and testing environments.
-- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool)
-  A Python-based CLI utility for archiving logs and recording archive activity.
-
-## Articles and Writing
-
-- I write about AWS, cloud security, infrastructure automation, and practical cybersecurity topics to share hands-on learning and implementation experience.
-- Hashnode: [fridaysecurity.hashnode.dev](https://fridaysecurity.hashnode.dev/)
-- LinkedIn Articles and Posts: [https://www.linkedin.com/in/suryasesank/](https://www.linkedin.com/in/suryasesank/)
-- I also publish on Medium and DEV Community, with topics adapted to the platform and audience.
-- My writing focuses on turning project work, implementation notes, and security concepts into practical, reusable knowledge for engineers and learners.
-
-## Current Focus
-
-- Cloud security architecture
-- Security automation and infrastructure as code
-- Threat detection and incident response
-- Practical malware analysis and ATT&CK-aligned learning
-
-## Contact
-
-- LinkedIn: [https://www.linkedin.com/in/suryasesank/](https://www.linkedin.com/in/suryasesank/)
-- GitHub: [github.com/nagasesank](https://github.com/nagasesank)
-- Email: nagasesank@gmail.com
-
-I am passionate about building secure, scalable systems and using automation to reduce risk, improve visibility, and strengthen operational response.
