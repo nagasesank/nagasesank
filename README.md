@@ -1,30 +1,71 @@
 # Surya Naga Sesank M
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Lead-Cloud%20Security%20Engineer-0f172a?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Lead Cloud Security Engineer" />
-  <img src="https://img.shields.io/badge/AWS%20Security-IAM%20%7C%20SCP%20%7C%20Terraform-1d4ed8?style=for-the-badge" alt="AWS Security" />
-  <img src="https://img.shields.io/badge/Compliance-HIPAA%20%7C%20HITRUST-0f766e?style=for-the-badge" alt="Compliance" />
-</p>
+Cloud Security Engineering | Security Architecture | DevSecOps
 
----
+Cloud security engineer with 10+ years in cybersecurity, focused on security architecture, Infrastructure as Code, identity, governance, detection, incident response, and security automation across AWS and Google Cloud.
 
-Lead Cloud Security Engineer with **8+ years of experience** securing AWS and hybrid healthcare environments. My focus is **AWS Security, IAM governance, AWS Organizations, SCP governance, Terraform security, security automation, Zero Trust architecture, and HIPAA/HITRUST-aligned controls**.
+[Portfolio](https://nagasesank.github.io/) | [LinkedIn](https://www.linkedin.com/in/suryasesank/) | [Engineering Writing](https://nagasesank.github.io/writing/)
 
-### Key Achievements
-- Built and supported secure cloud and hybrid environments with policy-driven access controls, network segmentation, and operational visibility.
-- Applied infrastructure-as-code and automation using **Terraform, Ansible, and Python** to improve consistency, governance, and response workflows.
-- Worked across healthcare IT environments where **security architecture, auditability, and compliance alignment** are critical.
+## Security Engineering Focus
 
----
+- Cloud security architecture across AWS and Google Cloud
+- Terraform, Infrastructure as Code, and Git workflows
+- IAM, permission boundaries, SCPs, and Zero Trust
+- Multi-account governance, CloudTrail, GuardDuty, and EventBridge
+- Detection and incident response engineering
+- AWS WAF, Google Cloud Armor, and network security
+- DevSecOps, security automation, controlled validation, remediation, revalidation, and engineering evidence
+- Framework-aware engineering context: NIST, ISO 27001, HIPAA/HITRUST-aligned engineering, PCI DSS, and SOC 2. These references describe engineering context, not organizational compliance, certification, or attestation.
 
-### Featured Projects
-- [Terraform-Automation](https://github.com/nagasesank/Terraform-Automation) - AWS provisioning and automation with Terraform, Ansible, and Python.
-- [Ansible-Network-Automation](https://github.com/nagasesank/Ansible-Network-Automation) - Multi-vendor automation supporting secure network operations.
-- [Log-Archive-Tool](https://github.com/nagasesank/Log-Archive-Tool) - Python tooling for operational logging and repeatable admin workflows.
+## Flagship Engineering Projects
 
----
+| Project | Focus | Status | Links |
+| --- | --- | --- | --- |
+| Enterprise Multi-Cloud WAF Evaluation Platform | Terraform-led comparison of AWS WAF and Google Cloud Armor with repeatable validation. | Validated | [Repository](https://github.com/nagasesank/multicloud-waf-platform) · [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) |
+| AI-Powered Polycloud Security Incident Response Platform | AWS-first, event-driven incident-response architecture moving through Terraform implementation. Amazon Bedrock integration and attack simulation are planned. | In Progress | [Repository](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform) · [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/) |
+| AWS Multi-Account Zero-Trust Architecture Lab | Engineering lab for Organizations, SCPs, IAM boundaries, audit logging, GuardDuty, isolation, and control validation. | Active Engineering | [Repository](https://github.com/nagasesank/aws-zero-trust-org-lab) · [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/) |
+| HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | Terraform-led security engineering for a synthetic healthcare workload: segmentation, IAM, logging, controlled validation, remediation, revalidation, and teardown evidence. | In Progress | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) · [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) |
 
-### Links
-- Portfolio: [nagasesank.github.io](https://nagasesank.github.io/)
-- LinkedIn: [linkedin.com/in/suryasesank](https://www.linkedin.com/in/suryasesank/)
+## Cloud Security Capability Stack
 
+### Cloud Platforms
+AWS · Google Cloud
+
+### Infrastructure Engineering
+Terraform · Infrastructure as Code · Git workflows
+
+### Identity & Zero Trust
+IAM · Permission Boundaries · SCPs · Zero Trust
+
+### Detection & Incident Response
+CloudTrail · GuardDuty · EventBridge · Investigation
+
+### Application & Edge Security
+AWS WAF · Google Cloud Armor · Network Security
+
+### Security Architecture & Governance
+Multi-account architecture · Governance controls · NIST · ISO 27001 · HIPAA/HITRUST-aligned engineering · PCI DSS · SOC 2
+
+### Engineering Practice
+DevSecOps · Security Automation · Controlled Validation · Remediation · Revalidation · Evidence and Documentation
+
+## Engineering Approach
+
+Design → Infrastructure as Code → Deploy → Validate → Controlled failure where applicable → Investigate → Remediate → Revalidate → Capture evidence → Cleanup / destroy. This workflow keeps implementation state, validation, limitations, and evidence reviewable.
+
+## Credentials
+
+- ISO 27001 Lead Auditor
+- AWS Certified Solutions Architect – Associate
+- EC-Council Certified Ethical Hacker (CEH)
+- AWS Well-Architected Proficient
+
+See the [portfolio credential record](https://nagasesank.github.io/certifications/) for supporting certification and training information.
+
+## Security Labs & Writing
+
+[Friday Security Projects](https://nagasesank.github.io/#security-labs) is a seven-part hands-on security engineering series. The [writing hub](https://nagasesank.github.io/writing/) centralizes public work across [Hashnode](https://hashnode.com/@nagasesank), [Medium](https://sesanknagamunukutla.medium.com/), [DEV](https://dev.to/sesank_naga_m_01), and [LinkedIn](https://www.linkedin.com/in/suryasesank/).
+
+## Connect
+
+[Portfolio](https://nagasesank.github.io/) · [LinkedIn](https://www.linkedin.com/in/suryasesank/) · [GitHub](https://github.com/nagasesank)
