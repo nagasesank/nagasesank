@@ -2,26 +2,27 @@
 
 Cloud Security Engineering | Security Architecture | DevSecOps
 
-Cloud security engineer with 10+ years in cybersecurity, focused on security architecture, Infrastructure as Code, identity, governance, detection, incident response, and security automation across AWS and Google Cloud.
+Cloud security engineer with 10+ years in cybersecurity, focused on security architecture, Infrastructure as Code, identity, governance, detection, incident response, and security automation across AWS, Microsoft Azure, and Google Cloud.
 
 [Portfolio](https://nagasesank.github.io/) | [LinkedIn](https://www.linkedin.com/in/suryasesank/) | [Engineering Writing](https://nagasesank.github.io/writing/)
 
 ## Security Engineering Focus
 
-- Cloud security architecture across AWS and Google Cloud
+- Cloud security architecture across AWS, Microsoft Azure, and Google Cloud
 - Terraform, Infrastructure as Code, and Git workflows
-- IAM, permission boundaries, SCPs, and Zero Trust
-- Multi-account governance, CloudTrail, GuardDuty, and EventBridge
+- IAM, Microsoft Entra ID, workload identity federation, permission boundaries, SCPs, Azure RBAC, and Zero Trust
+- Multi-account / multi-cloud governance, CloudTrail, GuardDuty, EventBridge, and Azure identity controls
 - Detection and incident response engineering
-- AWS WAF, Google Cloud Armor, and network security
+- AWS WAF, Google Cloud Armor, Azure security controls, and network security
 - DevSecOps, security automation, controlled validation, remediation, revalidation, and engineering evidence
 - Framework-aware engineering context: NIST, ISO 27001, HIPAA/HITRUST-aligned engineering, PCI DSS, and SOC 2. These references describe engineering context, not organizational compliance, certification, or attestation.
 
-## Completed / Validated Project
+## Completed / Validated Projects
 
 | Project | Focus | Status | Links |
 | --- | --- | --- | --- |
 | Enterprise Multi-Cloud WAF Evaluation Platform | Terraform-led comparison of AWS WAF and Google Cloud Armor with repeatable deployment, validation, evidence capture, and lifecycle documentation. | Completed / Validated | [Repository](https://github.com/nagasesank/multicloud-waf-platform) · [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) |
+| AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab | Controlled Azure identity-security lab covering Microsoft Entra workload credential risk, bounded Azure RBAC attack validation, GitHub OIDC federation, least-privilege remediation, revalidation, teardown verification, and DevSecOps hardening. | Completed / Validated | [Repository](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab) |
 
 ## Current Engineering Projects
 
@@ -30,11 +31,13 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 | AI-Powered Polycloud Security Incident Response Platform | AWS-first, event-driven incident-response architecture moving through Terraform implementation. Amazon Bedrock integration and attack simulation remain planned. | In Progress | [Repository](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform) · [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/) |
 | AWS Multi-Account Zero-Trust Architecture Lab | AWS Organizations, SCPs, IAM boundaries, audit logging, GuardDuty, isolation, policy-as-code, and control validation. | Active Engineering | [Repository](https://github.com/nagasesank/aws-zero-trust-org-lab) · [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/) |
 | HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | Terraform-led security engineering for a synthetic healthcare workload with segmentation, least privilege, logging, controlled failure testing, remediation, revalidation, and teardown evidence. | In Progress | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) · [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) |
+| AZ-02 — Azure Security Engineering Project | Next Azure security engineering project in the AZ-series. Scope and repository evidence will be linked once the implementation baseline is published. | In Progress | Repository pending |
 
 ## Currently Learning
 
 - AWS advanced networking architecture: hybrid connectivity, Transit Gateway, Route 53, Direct Connect, VPN, VPC design, routing, network security, and troubleshooting
 - Advanced AWS Organizations, IAM, SCP, Zero Trust, and policy-as-code patterns
+- Microsoft Azure security engineering: Entra workload identities, OIDC federation, Azure RBAC, Terraform, and identity attack-path validation
 - AI-assisted cloud security incident triage and response automation
 - PMP domains: people, process, business environment, delivery, risk, stakeholder management, and agile/hybrid practices
 
@@ -46,13 +49,13 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 ## Cloud Security Capability Stack
 
 ### Cloud Platforms
-AWS · Google Cloud
+AWS · Microsoft Azure · Google Cloud
 
 ### Infrastructure Engineering
-Terraform · Infrastructure as Code · Git workflows
+Terraform · Infrastructure as Code · Git workflows · GitHub Actions
 
 ### Identity & Zero Trust
-IAM · Permission Boundaries · SCPs · Zero Trust
+AWS IAM · Microsoft Entra ID · Azure RBAC · GitHub OIDC · Workload Identity Federation · Permission Boundaries · SCPs · Zero Trust
 
 ### Detection & Incident Response
 CloudTrail · GuardDuty · EventBridge · Investigation
@@ -61,7 +64,7 @@ CloudTrail · GuardDuty · EventBridge · Investigation
 AWS WAF · Google Cloud Armor · Network Security
 
 ### Security Architecture & Governance
-Multi-account architecture · Governance controls · NIST · ISO 27001 · HIPAA/HITRUST-aligned engineering · PCI DSS · SOC 2
+Multi-account architecture · Multi-cloud security · Governance controls · NIST · ISO 27001 · HIPAA/HITRUST-aligned engineering · PCI DSS · SOC 2
 
 ### Engineering Practice
 DevSecOps · Security Automation · Controlled Validation · Remediation · Revalidation · Evidence and Documentation
