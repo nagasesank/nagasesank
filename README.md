@@ -19,10 +19,17 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 
 ## Completed / Validated Projects
 
+<p align="center">
+  <a href="https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture">
+    <img src="assets/az02-hero-banner.png" alt="AZ-02 Azure Security Architecture Assessment and Controlled Remediation Lab">
+  </a>
+</p>
+
 | Project | Focus | Status | Links |
 | --- | --- | --- | --- |
 | Enterprise Multi-Cloud WAF Evaluation Platform | Terraform-led comparison of AWS WAF and Google Cloud Armor with repeatable deployment, validation, evidence capture, and lifecycle documentation. | Completed / Validated | [Repository](https://github.com/nagasesank/multicloud-waf-platform) · [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) |
 | AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab | Controlled Azure identity-security lab covering Microsoft Entra workload credential risk, bounded Azure RBAC attack validation, GitHub OIDC federation, least-privilege remediation, revalidation, teardown verification, and DevSecOps hardening. | Completed / Validated | [Repository](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab) |
+| AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab | Evidence-driven Azure security architecture assessment and controlled remediation covering governance, identity, private access, network controls, logging, workload authentication, residual-risk analysis, secure teardown, MCSB traceability, and multicloud architecture mapping. | Completed / Validated Scope | [Repository](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture) · [Release](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture/releases/tag/v1.0.0) |
 
 ## Current Engineering Projects
 
@@ -31,7 +38,6 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 | AI-Powered Polycloud Security Incident Response Platform | AWS-first, event-driven incident-response architecture moving through Terraform implementation. Amazon Bedrock integration and attack simulation remain planned. | In Progress | [Repository](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform) · [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/) |
 | AWS Multi-Account Zero-Trust Architecture Lab | AWS Organizations, SCPs, IAM boundaries, audit logging, GuardDuty, isolation, policy-as-code, and control validation. | Active Engineering | [Repository](https://github.com/nagasesank/aws-zero-trust-org-lab) · [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/) |
 | HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | Terraform-led security engineering for a synthetic healthcare workload with segmentation, least privilege, logging, controlled failure testing, remediation, revalidation, and teardown evidence. | In Progress | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) · [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) |
-| AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab | Azure cloud security architecture review and controlled remediation project in the AZ-series. Implementation evidence and repository linkage will be added as the project baseline is published. | In Progress | Repository pending |
 
 ## Currently Learning
 
