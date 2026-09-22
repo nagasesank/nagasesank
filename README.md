@@ -33,6 +33,7 @@ Cloud security engineer with 8+ years in cybersecurity, turning security archite
 
 | Project | Case Study | GitHub Repo | What It Does |
 | --- | --- | --- | --- |
+| Confidential Multi-Party Data Collaboration Platform on Google Cloud — **In Progress** | — | — | A GCP-native confidential computing project focused on secure multi-party data collaboration using isolated trust boundaries and attested workloads. |
 
 ### Azure
 
