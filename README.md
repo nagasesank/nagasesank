@@ -19,12 +19,6 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 
 ## Completed / Validated Projects
 
-<p align="center">
-  <a href="https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture">
-    <img src="assets/az02-hero-banner.png" alt="AZ-02 Azure Security Architecture Assessment and Controlled Remediation Lab">
-  </a>
-</p>
-
 | Project | Focus | Status | Links |
 | --- | --- | --- | --- |
 | Enterprise Multi-Cloud WAF Evaluation Platform | Terraform-led comparison of AWS WAF and Google Cloud Armor with repeatable deployment, validation, evidence capture, and lifecycle documentation. | Completed / Validated | [Repository](https://github.com/nagasesank/multicloud-waf-platform) · [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) |
