@@ -17,21 +17,26 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 - DevSecOps, security automation, controlled validation, remediation, revalidation, and engineering evidence
 - Framework-aware engineering context: NIST, ISO 27001, HIPAA/HITRUST-aligned engineering, PCI DSS, and SOC 2. These references describe engineering context, not organizational compliance, certification, or attestation.
 
-## Completed / Validated Projects
+## Featured Projects by Domain
 
-| Project | Focus | Status | Links |
-| --- | --- | --- | --- |
-| Enterprise Multi-Cloud WAF Evaluation Platform | Terraform-led comparison of AWS WAF and Google Cloud Armor with repeatable deployment, validation, evidence capture, and lifecycle documentation. | Completed / Validated | [Repository](https://github.com/nagasesank/multicloud-waf-platform) · [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) |
-| AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab | Controlled Azure identity-security lab covering Microsoft Entra workload credential risk, bounded Azure RBAC attack validation, GitHub OIDC federation, least-privilege remediation, revalidation, teardown verification, and DevSecOps hardening. | Completed / Validated | [Repository](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab) |
-| AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab | Evidence-driven Azure security architecture assessment and controlled remediation covering governance, identity, private access, network controls, logging, workload authentication, residual-risk analysis, secure teardown, MCSB traceability, and multicloud architecture mapping. | Completed / Validated Scope | [Repository](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture) · [Release](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture/releases/tag/v1.0.0) |
+### AWS
 
-## Current Engineering Projects
+- **[AWS Multi-Account Zero-Trust Architecture Lab](https://github.com/nagasesank/aws-zero-trust-org-lab)** — Active Engineering. Organizations, SCPs, IAM boundaries, audit logging, and policy-as-code validation. [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/)
+- **[Enterprise Multi-Cloud WAF Evaluation Platform](https://github.com/nagasesank/multicloud-waf-platform)** — Completed / Validated. Cross-cloud: Terraform-led AWS WAF and Google Cloud Armor comparison with validation evidence. [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/)
+- **[HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project)** — In Progress. Cross-cloud architecture; AWS-first implementation of segmentation, least privilege, and logging for a synthetic healthcare workload. [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/)
 
-| Project | Focus | Status | Links |
-| --- | --- | --- | --- |
-| AI-Powered Polycloud Security Incident Response Platform | AWS-first, event-driven incident-response architecture moving through Terraform implementation. Amazon Bedrock integration and attack simulation remain planned. | In Progress | [Repository](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform) · [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/) |
-| AWS Multi-Account Zero-Trust Architecture Lab | AWS Organizations, SCPs, IAM boundaries, audit logging, GuardDuty, isolation, policy-as-code, and control validation. | Active Engineering | [Repository](https://github.com/nagasesank/aws-zero-trust-org-lab) · [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/) |
-| HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | Terraform-led security engineering for a synthetic healthcare workload with segmentation, least privilege, logging, controlled failure testing, remediation, revalidation, and teardown evidence. | In Progress | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) · [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) |
+### Azure
+
+- **[AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab)** — Completed / Validated. Entra workload identity, GitHub OIDC federation, and least-privilege remediation.
+- **[AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture)** — Completed / Validated Scope. Governance, identity, private access, and logging review with controlled remediation; cross-cloud architecture mapping. [Release](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture/releases/tag/v1.0.0) (Repository and release require access.)
+
+### GCP
+
+Under Process
+
+### AI
+
+- **[AI-Powered Polycloud Security Incident Response Platform](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform)** — In Progress. Cross-cloud design with AWS-first Terraform implementation; Amazon Bedrock integration and attack simulation remain planned. [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/)
 
 ## Currently Learning
 
@@ -48,26 +53,11 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 
 ## Cloud Security Capability Stack
 
-### Cloud Platforms
-AWS · Microsoft Azure · Google Cloud
+Capability areas reflected in the engineering work and learning focus above.
 
-### Infrastructure Engineering
-Terraform · Infrastructure as Code · Git workflows · GitHub Actions
+![Cloud security capability stack: cloud platforms, identity and network security, DevSecOps and IaC, detection, governance, and security automation; AI-assisted triage is a learning focus.](assets/cloud-security-capability-stack.svg)
 
-### Identity & Zero Trust
-AWS IAM · Microsoft Entra ID · Azure RBAC · GitHub OIDC · Workload Identity Federation · Permission Boundaries · SCPs · Zero Trust
-
-### Detection & Incident Response
-CloudTrail · GuardDuty · EventBridge · Investigation
-
-### Application & Edge Security
-AWS WAF · Google Cloud Armor · Network Security
-
-### Security Architecture & Governance
-Multi-account architecture · Multi-cloud security · Governance controls · NIST · ISO 27001 · HIPAA/HITRUST-aligned engineering · PCI DSS · SOC 2
-
-### Engineering Practice
-DevSecOps · Security Automation · Controlled Validation · Remediation · Revalidation · Evidence and Documentation
+Text summary: AWS / Azure / GCP · Identity, Zero Trust, and network security · Terraform and policy as code · Logging and investigation · Governance and framework alignment · Security automation (AI-assisted triage: learning).
 
 ## Engineering Approach
 
