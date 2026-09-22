@@ -21,22 +21,31 @@ Cloud security engineer with 10+ years in cybersecurity, focused on security arc
 
 ### AWS
 
-- **[AWS Multi-Account Zero-Trust Architecture Lab](https://github.com/nagasesank/aws-zero-trust-org-lab)** — Active Engineering. Organizations, SCPs, IAM boundaries, audit logging, and policy-as-code validation. [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/)
-- **[Enterprise Multi-Cloud WAF Evaluation Platform](https://github.com/nagasesank/multicloud-waf-platform)** — Completed / Validated. Cross-cloud: Terraform-led AWS WAF and Google Cloud Armor comparison with validation evidence. [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/)
-- **[HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project)** — In Progress. Cross-cloud architecture; AWS-first implementation of segmentation, least privilege, and logging for a synthetic healthcare workload. [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/)
-
-### Azure
-
-- **[AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab)** — Completed / Validated. Entra workload identity, GitHub OIDC federation, and least-privilege remediation.
-- **[AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture)** — Completed / Validated Scope. Governance, identity, private access, and logging review with controlled remediation; cross-cloud architecture mapping. [Release](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture/releases/tag/v1.0.0) (Repository and release require access.)
+| Project | Case Study | GitHub Repo | What It Does |
+| --- | --- | --- | --- |
+| AWS Multi-Account Zero-Trust Architecture Lab | [Case Study](https://nagasesank.github.io/projects/aws-zero-trust-org-lab/) | [Repository](https://github.com/nagasesank/aws-zero-trust-org-lab) | Engineers AWS Organizations, SCPs, IAM boundaries, audit logging, GuardDuty, isolation, and policy-as-code validation for a multi-account Zero Trust lab. |
+| Enterprise Multi-Cloud WAF Evaluation Platform | [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) | [Repository](https://github.com/nagasesank/multicloud-waf-platform) | Deploys and validates AWS WAF alongside equivalent Google Cloud Armor controls through reusable Terraform and evidence-backed testing. |
+| HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) | Implements AWS-first segmentation, least privilege, logging, controlled validation, remediation, and teardown for a synthetic healthcare workload. |
 
 ### GCP
 
-Under Process
+| Project | Case Study | GitHub Repo | What It Does |
+| --- | --- | --- | --- |
+| Enterprise Multi-Cloud WAF Evaluation Platform | [Case Study](https://nagasesank.github.io/projects/multicloud-waf-platform/) | [Repository](https://github.com/nagasesank/multicloud-waf-platform) | Implements Google Cloud Armor in an equivalent cross-cloud WAF environment for controlled comparison with AWS WAF. |
+| HIPAA/HITRUST-Aligned Healthcare Security Engineering Platform | [Case Study](https://nagasesank.github.io/projects/hipaa-hitrust-healthcare-security/) | [Repository](https://github.com/nagasesank/hipaa-hitrust-healthcare-security-project) | Includes Google Cloud control-equivalent architecture scope while the primary implementation remains AWS-first. |
 
-### AI
+### Azure
 
-- **[AI-Powered Polycloud Security Incident Response Platform](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform)** — In Progress. Cross-cloud design with AWS-first Terraform implementation; Amazon Bedrock integration and attack simulation remain planned. [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/)
+| Project | Case Study | GitHub Repo | What It Does |
+| --- | --- | --- | --- |
+| AZ-01 — Azure Workload Identity Attack & Secretless Federation Lab | [Case Study](https://nagasesank.github.io/projects/az-01-azure-workload-identity-security/) | [Repository](https://github.com/nagasesank/AZ-01-azure-workload-identity-security-lab) | Validates a bounded Microsoft Entra workload-identity attack path and remediates credential and authorization risk with GitHub OIDC federation and least-privilege Azure RBAC. |
+| AZ-02 — Azure Cloud Security Architecture Review & Controlled Remediation Lab | [Case Study](https://nagasesank.github.io/projects/az-02-azure-enterprise-security-architecture/) | [Repository](https://github.com/nagasesank/AZ-02-azure-enterprise-security-architecture) | Assesses Azure governance, identity, private access, logging, and workload controls through controlled remediation, revalidation, and residual-risk review. |
+
+### AI / Security Automation
+
+| Project | Case Study | GitHub Repo | What It Does |
+| --- | --- | --- | --- |
+| AI-Powered Polycloud Security Incident Response Platform | [Case Study](https://nagasesank.github.io/projects/ai-powered-polycloud-incident-response/) | [Repository](https://github.com/nagasesank/AI-Powered-Polycloud-Security-Incident-Response-Platform) | Builds an AWS-first event-driven incident-response architecture; Terraform implementation is in progress and Amazon Bedrock integration and attack simulation remain planned. |
 
 ## Currently Learning
 
@@ -63,18 +72,42 @@ Text summary: AWS / Azure / GCP · Identity, Zero Trust, and network security ·
 
 Design → Infrastructure as Code → Deploy → Validate → Controlled failure where applicable → Investigate → Remediate → Revalidate → Capture evidence → Cleanup / destroy. This workflow keeps implementation state, validation, limitations, and evidence reviewable.
 
-## Completed Credentials
+## Credentials & Training
 
-- ISO 27001 Lead Auditor
-- AWS Certified Solutions Architect – Associate
-- Google Cloud Professional Cloud Architect
-- Palo Alto Networks Certified Network Security Engineer (PCNSE)
-- EC-Council Certified Ethical Hacker (CEH)
-- CSPM-AWS
-- GenAI Cybersecurity: OWASP & MITRE ATLAS
-- AWS Well-Architected Foundations training
+Training and completion records are listed separately from certifications to avoid conflating coursework with certification status.
 
-See the [portfolio credential record](https://nagasesank.github.io/certifications/) for supporting certification and training information.
+### Certifications & Professional Credentials
+
+| Credential | Category |
+| --- | --- |
+| ISO 27001 Lead Auditor | Governance / Assurance |
+| AWS Certified Solutions Architect – Associate | AWS Certification |
+| Google Cloud Professional Cloud Architect | Google Cloud Certification |
+| Palo Alto Networks Certified Network Security Engineer (PCNSE) | Network Security Certification |
+| EC-Council Certified Ethical Hacker (CEH) | Cybersecurity Certification |
+| CSPM-AWS | Cloud Security Credential |
+| GenAI Cybersecurity: OWASP & MITRE ATLAS | AI Security Credential |
+
+### Professional Certificates
+
+| Certificate | Category |
+| --- | --- |
+| AWS Well-Architected Foundations | AWS Architecture Training |
+| ArcX FTIA | Cybersecurity |
+| TCM Practical Web Application Security | Application Security |
+| TCM Linux Privilege Escalation | Linux Security |
+| TCM Windows Privilege Escalation | Windows Security |
+
+### Professional Training
+
+| Training | Provider |
+| --- | --- |
+| Google Cloud Professional Cloud Architect Training | Google Cloud |
+| Palo Alto PCNSE Training | Palo Alto Networks |
+| AWS CSPM Training | LinkedIn Learning |
+| Azure CSPM Training | LinkedIn Learning |
+
+See the [portfolio credential record](https://nagasesank.github.io/certifications/) for the supporting certification, certificate, and training records.
 
 ## Security Labs & Writing
 
